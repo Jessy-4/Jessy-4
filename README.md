@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**Jessy-4/Jessy-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Hi ,I'm Jessica Oduor
+## About me
+-I'm currently learning programming at the we can academy
+-I'm interested in computer science
+-I'm looking forward to collaborate on beginner-friendly open source projects
+## skills I'm Building
+- Git and GitHub
+- HTML
+##Current projectsl
+-Lesson Timer(link) - A program that helps in lesson timing
+##How to Reach Me
+-Email:mjesca372@gmail.com
+-LinkedIn:
